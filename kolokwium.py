@@ -21,7 +21,7 @@
 # Na ocenę 3.0:
 # Poprawna implementacja funkcji `poprawna_dlugosc` oraz `czy_cyfra`.
 
-# Tylko dla zadania na 3.0 jest dostępny test jednosrkowy sprawdzający 20 przypadków testowych dla funkcji `poprawna_dlugosc` oraz `czy_cyfra`.
+# Tylko dla zadania na 3.0 jest dostępny test jednostkowy sprawdzający 20 przypadków dla funkcji `poprawna_dlugosc` oraz `czy_cyfra`.
 # Aby uruchomić test w terminalu wpisz: pytest tests/test_na_3.py
 # Uzyskanie wszystkich 20 przypadków 'na zielono' - zaliczonych, jest jednoznaczne z uzyskaniem oceny 3.0
 
@@ -45,6 +45,22 @@
 
 # Podaj hasło: Abc12345
 # True
+
+
+### PRZESŁANIE ROZWIĄZANEGO ZADANIA ###
+
+# W celu przsłania pracy należy wykonać 'commit' repozytorium.
+# W tym celu po prawej z menu należy wybrać "Kontrola źródła" - ikona połączonymi trzema okręgami.
+# W oknie pod zielonym przyciskiem 'Zatwierdź' należy najehać kursorem na plik kolokwium.py
+# Plusikiem obok nazwy pliku dodać ten plik do rejestrowanych zmian.
+# Plik kolokwium.py pojawi się pod napisem 'Przygotowane zmiany'.
+# Nstępnie należy wpisać komentarz nad zielonym przyciskiem np 'Rozwiązanie'.
+# Teraz należy kliknąć zielony klawisz 'Zatwierdź'.
+# Synchronizuj zmiany.
+# Jeżeli pojawi się okienko infrmacyjne 'Ta akcja spowoduje ściąganie i wypychanie zatwierdzeń z i do elementu „origin/main“.'
+# To klikamy zielony klawisz OK
+
+
 
 
 def poprawna_dlugosc(h):
