@@ -27,6 +27,7 @@
                     "**/.gitignore": true,
                     "**/.github": true,
                     "**/.img": true,
+                    "**/.ttp": true,
                     "**/.scripts": true,
                     "**/.temp": true,
                     "**/.pytest_cache": true,
