@@ -21,6 +21,10 @@
 # Na ocenę 3.0:
 # Poprawna implementacja funkcji `poprawna_dlugosc` oraz `czy_cyfra`.
 
+# Tylko dla zadania na 3.0 jest dostępny test jednosrkowy sprawdzający 20 przypadków testowych dla funkcji `poprawna_dlugosc` oraz `czy_cyfra`.
+# Aby uruchomić test w terminalu wpisz: pytest tests/test_na_3.py
+# Uzyskanie wszystkich 20 przypadków 'na zielono' - zaliczonych, jest jednoznaczne z uzyskaniem oceny 3.0
+
 # Na ocenę 4.0:
 # Poprawna implementacja funkcji `poprawna_dlugosc`, `czy_cyfra`,  `czy_wielka_litera` oraz `czy_mala_litera`.
 
